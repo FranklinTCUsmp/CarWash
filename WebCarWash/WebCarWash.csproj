@@ -75,6 +75,8 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Global.asax" />
+    <Content Include="Imagenes\Mantener de Inventario C.U..png" />
+    <Content Include="Imagenes\Venta de Servicio C.U..png" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
